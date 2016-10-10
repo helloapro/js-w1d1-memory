@@ -1,0 +1,12 @@
+/*img {
+  height: 200px;
+  margin: 2.5%;
+  visibility: hidden;
+}
+
+.show{display:block;}
+.hide{display:none;}*/
+
+#jamesimage {
+  visibility: hidden;
+}
